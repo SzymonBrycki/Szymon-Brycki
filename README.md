@@ -1,6 +1,6 @@
 # Szymon Brycki
 
-I'm Szymon Brycki, an IT technician originally from a small town of Kowary, Poland, currently living in Jelania Góra. Nice to meet you! ;)
+I'm Szymon Brycki, an IT technician originally from a small town of Kowary, Poland, currently living in Jelenia Góra. Nice to meet you! ;)
 
 My skills, qualifications and certificates:
 
@@ -34,5 +34,5 @@ My skills, qualifications and certificates:
 
 **EDUCATION**:
 
- * IT TECHNICIAN - TEB Edukacja Vocational School, Jelenai Góra, Poland
+ * IT TECHNICIAN - TEB Edukacja Vocational School, Jelenia Góra, Poland
      * 2017-2019
