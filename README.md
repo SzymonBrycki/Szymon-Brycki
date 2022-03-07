@@ -7,7 +7,7 @@ My skills, qualifications and certificates:
 **REAL-WORLD LANGUAGES**:
 
  * Polish - native language
- * English - B2 (C1 reading), IELTS Academic 6.5 (8 in reading, 6 in all other skills, 2013)
+ * English - B2 (C1 reading) [Certificate: IELTS Academic 6.5 (8 in reading, 6 in all other skills, 2013)]
  * Italian - A2 (still learning)
 
 **PROGRAMMING LANGUAGES**:
