@@ -13,5 +13,6 @@
 </a>
 
 <br>
+<br>
 
 Hi! I'm Szymon Brycki, an IT technician originally from a small town of Kowary, Poland, currently living in Jelenia Góra. Nice to meet you! ;)
