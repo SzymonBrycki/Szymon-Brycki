@@ -12,6 +12,10 @@
 <img align="left" alt="Szymon Brycki Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg">
 </a>
 
+<a href="mailto:szymon.brycki@gmail.com">
+<img align="left" alt="Szymon Brycki E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"
+</a>
+
 <br>
 <br>
 
