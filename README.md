@@ -4,27 +4,29 @@ I'm Szymon Brycki, an IT technician originally from a small town of Kowary, Pola
 
 My skills, qualifications and certificates:
 
-**REAL-WORLD LANGUAGES**:
+# REAL-WORLD LANGUAGES:
 
  * Polish - native language
  * English - B2 (C1 reading) [Certificate: IELTS Academic 6.5 (8 in reading, 6 in all other skills, 2013)]
  * Italian - A2 (still learning)
 
-**PROGRAMMING LANGUAGES**:
+# IT TECHNOLOGIES
+
+## PROGRAMMING LANGUAGES:
 
  * Python 3
 
-**WEB TECHNOLOGIES**:
+## WEB TECHNOLOGIES:
 
  * HTML 5
  * CSS 3
  * Bootstrap
 
-**CONTENT MANAGEMENT SYSTEMS (CMS)**:
+## CONTENT MANAGEMENT SYSTEMS (CMS):
 
  * Wordpress
 
-**IT CERTIFICATES**:
+# IT CERTIFICATES:
 
  * Microsoft Certificate ITA 101 - Introduction to databases
  * Microsoft Certificate ITA 103 - Programming of Internet applications
@@ -32,7 +34,7 @@ My skills, qualifications and certificates:
  * Microsoft Certificate ITA 109 - Web technologies
  * EE.08 State IT Technician Diploma - Installation and exploration of computer systems and networks (written: 75%, practical: 100%)
 
-**EDUCATION**:
+# EDUCATION:
 
  * IT TECHNICIAN - TEB Edukacja Vocational School, Jelenia Góra, Poland
      * 2017-2019
