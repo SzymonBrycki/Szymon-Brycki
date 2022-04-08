@@ -24,3 +24,7 @@
 <br>
 
 Hi! I'm Szymon Brycki, an IT technician originally from a small town of Kowary, Poland, currently living in Jelenia Góra. Nice to meet you! ;)
+
+<br>
+
+I know Python 3, HTML, CSS, Bootstrap and Wordpress as CMS.
