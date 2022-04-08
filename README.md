@@ -16,6 +16,10 @@
 <img align="left" alt="Szymon Brycki E-mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">
 </a>
 
+<a href="#">
+<img align="left" alt"Szymon Brycki Webpage" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/internetexplorer.svg">
+</a>
+
 <br>
 <br>
 
