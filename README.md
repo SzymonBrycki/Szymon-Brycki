@@ -12,4 +12,6 @@
 <img align="left" alt="Szymon Brycki Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg">
 </a>
 
+<br>
+
 Hi! I'm Szymon Brycki, an IT technician originally from a small town of Kowary, Poland, currently living in Jelenia Góra. Nice to meet you! ;)
