@@ -21,7 +21,7 @@
 </a>
 
 <a href="#">
-<img align="left" alt"Szymon Brycki Webpage" width="25px" src="https://simpleicons.org/icons/githubpages.svg">
+<img align="left" alt"Szymon Brycki Webpage" width="25px" src="https://simpleicons.org/icons/internetexplorer.svg">
 </a>
 
 <br>
